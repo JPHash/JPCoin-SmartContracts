@@ -1,4 +1,4 @@
-# One-End Encryption (OEE): Stronger than End-to-End Encryption
+# JPHash Smart Contracts: Stronger than End-to-End Encryption
 
 Today everybody uses end-to-end encryption, but it's not secure enough
 for you! Powerful state-sponsored attackers have the ability to break
